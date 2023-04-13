@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "[Got]
-
-(0 chars long)
-
-[Expected]
-/tmp/correction/4526168553712390650974766708597704453980_5/205/411858/0x00-shell_basics
-
-(88 chars long)"
+echo "shell basics"
