@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-pwd 
-=======
-echo "shell basics"
->>>>>>> 9f903ef4bc6be35fb113685803f8201f91868622
+pwd
